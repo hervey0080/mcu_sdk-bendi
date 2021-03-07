@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tuyatest
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.
 ====
@@ -17,3 +18,6 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 4）4月30号测试及解BUG。
 
 
+=======
+# mcu_sdk-bendi
+>>>>>>> 78604d2aac7309dc072fe4027f329877b9a3ec4d
