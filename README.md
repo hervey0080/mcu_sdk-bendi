@@ -19,6 +19,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 三、开发计划
 ---
 3月30号完成设计。
+
 》1）3月15号完成涂鸦模块使用的知识储备
 
 》2）3月20号选定主控芯片，完成完成硬件PCBA。
