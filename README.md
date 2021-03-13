@@ -18,7 +18,19 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 2、平常定时定量科学喂养。
 3、APP控制手动喂养
 
-三、开发计划
+
+三、开发材料
+---
+涂鸦三明治开发套件
+stm32开发板
+电机、舵机
+电子秤模块、LED RGB灯
+亚克力板、胶枪、木棒、纸板、复位按钮
+涂鸦Iot平台、APP
+
+
+
+四、开发计划
 ---
 3月30号完成设计。
 
@@ -27,10 +39,10 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 》2）3月20号完成完成硬件PCBA，选定主控芯片STM32F103系列，电机驱动电路包括电机驱动板及其外围电路，电机驱动板的型号为ULN2003
      称重电路包括惠更斯电桥、HX711型A/D转换器芯片;电机驱动电路用于控制食物输出量，称重电路用于记录食物输出量以及宠物吃剩余的食物量，
 
-》3）3月25号前完成嵌入式开发、云开发, 对HX711驱动控制，主控和WIFI通讯控制。
-
+》3）3月25号前完成移植涂鸦SDK包至32主控板，配合涂鸦三明治Wi-Fi MCU 通信板，实现对HX711驱动控制，主控和WIFI通讯协议。
+     通过涂鸦iot平台，快速开发app，实时获取所有数据。实现本地数据上云。
+     
 》4）3月30号测试及解BUG。
-
 
 =======
 # mcu_sdk-bendi
